@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.Counter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border: 1px solid;
+  padding: 5px;
+
+  width: 150px;
+}
