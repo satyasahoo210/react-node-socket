@@ -26,7 +26,7 @@ npm start
 Link: [http://localhost:3001](http://localhost:3001)
 
 ```bash
-# 2. Running the 2nd react dev server
+# 3. Running the 2nd react dev server
 cd project2
 npm start
 
